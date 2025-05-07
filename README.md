@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, Java, Node.js and others.
 - 🌱 I completed my technical degree in Systems Development at SENAI Registro-SP / Brazil, and I am currently pursuing a degree in Software Engineering at UniCesumar.
 - 💞️ I’m looking to collaborate on every project that makes me feel part of something bigger than just working.
-- 📫 How to reach me : https://www.linkedin.com/in/dhuanngranza/ or just message me here.
+- 📫 How to reach me : just send me a message.
 
 <!---
 Dhuinverse/Dhuinverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
